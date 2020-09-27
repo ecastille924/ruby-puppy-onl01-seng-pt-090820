@@ -21,10 +21,6 @@ class Dog
     @@all << self
   end 
   
-  #def self.clear_all
-    #@@all.each do |array|
-     # array.clear
-   # end 
-  #end
+ 
   
 end
